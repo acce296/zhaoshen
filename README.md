@@ -1,4 +1,4 @@
-# gtihub新仓库
+# github新仓库
 收录了一些感兴趣的以及金融方面相关知识的仓库
 1.  https://github.com/sindresorhus/awesome-scifi
 这是一些值得观看的科幻小说，令我感兴趣
